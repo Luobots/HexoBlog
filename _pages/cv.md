@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in SCSS, Beijing University of Posts and Telecommunications, 2020-2024
+* Ph.D in IIIS, Tsinghua University, 2024-
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022 - Spring 2023: Research Intern Student
+  * [THUNLP Group](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University
+  * Topics: Natural Language Processing
+  * Duties included: Dataset collection, Program development
+  * Supervisor: Professor [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Intern Student
+  * [CRIPAC](http://www.cripac.ia.ac.cn/), Institute of Automation Chinese Academy of Sciences
+  * Topics: Graph Neural Network, Graph Structure Learning
+  * Duties included: GSL Benchmark Construction
+  * Supervisor: Professor [Qiang Liu](https://john-qiangliu.tech/)
+
+* From Autumn 2023: Research Intern Student
+  * [Shanghai Qi Zhi Institute](https://sqz.ac.cn/en), Shanghai
+  * Topics: Large Language Models
+  * Duties included: Do any research I like!
+  * Supervisor: Professor [Yang Yuan](https://people.iiis.tsinghua.edu.cn/~yuanyang/en.html)
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -42,13 +49,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -56,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
